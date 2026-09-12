@@ -471,7 +471,7 @@ def another_prison():
     print('2 - Подёргать за ручку двери')
     print('3 - Попробовать поспать')
     answer = input('Введите номер ответа, которого хотите выбрать')
-    while answer != '1' and answer != '2':
+    while answer != '1' and answer != '2' and answer != '3':
         answer = input('Введите номер ответа, которого хотите выбрать')
     answer = int(answer)
     if answer == 1:
