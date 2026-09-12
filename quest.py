@@ -483,6 +483,7 @@ def another_prison():
         another_prison()
     elif answer == 3:
         print('Вы заснули, но спали всего около 5 минут.')
+        another_prison()
 
 
 def another_lost():
