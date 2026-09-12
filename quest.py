@@ -1,9 +1,5 @@
 import random
 import time
-from playsound3 import playsound
-
-playsound('C:/Users/Banan/Documents/13220756_806046.mp3', block=False)
-playsound('C:/Users/Banan/Documents/13220756_806046.mp3', block=False)
 inventory = dict()
 
 
