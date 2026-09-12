@@ -3,9 +3,8 @@ import time
 from playsound3 import playsound
 from ascii_arts import *
 
-playsound('Пилы.mp3', block=False)
-playsound('колокольчики.mp3', block=False)
-playsound('колокольчики.mp3', block=False)
+playsound('pils.mp3', block=False)
+playsound('bell.mp3', block=False)
 inventory = dict()
 
 
